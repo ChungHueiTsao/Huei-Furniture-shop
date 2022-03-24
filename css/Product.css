@@ -2,7 +2,7 @@
     body{
         position: relative;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-color: rgb(233, 224, 204);
+        background-color: rgb(255, 255, 255);
         margin: 0px auto;
         padding: 0px;
     }
@@ -10,7 +10,7 @@
         z-index: 3;
         position:fixed;
         display: flex;
-        background-color: rgb(119, 92, 73);
+        background-color: rgb(41, 48, 58);
         box-shadow:2px 2px 2px 2px rgba(0, 0, 0, 0.3);
         border-bottom: rgb(225, 232, 241) 2px solid;
         width: 100%;
@@ -198,7 +198,7 @@
         text-align: center;
         padding-top: 20px;
         color: rgb(225, 232, 241);
-        background-color: rgb(119, 92, 73);
+        background-color: rgb(41, 48, 58);
         border-top: rgb(225, 232, 241) 2px solid;
         user-select: none;
     }
